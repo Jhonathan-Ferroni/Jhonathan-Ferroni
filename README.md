@@ -21,8 +21,7 @@
 ## ⚡ Interesses Pessoais
 
 - Apaixonado por **video games**, especialmente **God Of War** 🎮. Jogando atualmente **Kingdom Come Deliverance e Star Wars Fallen Order**!
-- Interesse crescente em **Mindfulness** para melhorar a concentração e reduzir a ansiedade.
-- Atualmente lendo *Guerra Civil de Stuart Moore*, *Planeta dos macacos de Pierre Boulle*, *Algoritmos teoria e prática de thomas cormen* e *Introdução ao sistema de banco de dados de CJ. Date*.
+- Atualmente lendo *Guerra Civil de Stuart Moore*, *Planeta dos macacos de Pierre Boulle* e *Introdução ao sistema de banco de dados de CJ. Date*.
 - Gosto de quadrinhos, especialmente do *Homem aranha*🕷️!
 
 ## 😁 Sobre mim
