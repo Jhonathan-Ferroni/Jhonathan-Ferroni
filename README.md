@@ -21,8 +21,8 @@
 ## ⚡ Interesses Pessoais
 
 - Apaixonado por **video games**, especialmente **God Of War** 🎮. Jogando atualmente **Kingdom Come Deliverance e Star Wars Fallen Order**!
-- Atualmente lendo *Guerra Civil de Stuart Moore*, *Planeta dos macacos de Pierre Boulle* e *Introdução ao sistema de banco de dados de CJ. Date*.
-- Gosto de quadrinhos, especialmente do *Homem aranha*🕷️!
+- Atualmente lendo *Guerra Civil de Stuart Moore* e *Metamorfose de Franz Kafka*
+- Gosto de quadrinhos, especialmente do *Homem aranha*🕷️ e do *Batman🦇*!
 
 ## 😁 Sobre mim
 - Desde criança sempre vivi rodeado por tecnologia, seja com videogames (*um memorável Playstation 2*) , os primeiros celulares do meu pai ou o nosso primeiro PC e sempre foi algo que me fascinou. Com o passar dos anos o interesse só aumentou, sempre tive na mente que trabalharia com computadores. Ao chegar no ensino médio, passando pela pandemia, encontrei um curso na internet chamado de CS50, um ótimo e completo curso de introdução a ciências da computação de Harvard. Logo comecei a pegar gosto pela coisa, adorava o conteúdo da aula e percebia que levava jeito para aquilo, me enchia os olhos. No entanto, conciliar o mergulho na programação que o CS50 te obriga a fazer caso queira atingir a nota necessária para dar prosseguimento nas aulas e o estudo para os vestibulares não foi tarefa fácil, por isso na epóca, acabei abandonando o estudo na metade. Entretanto, esse foi um ótimo teste para mim, e foi a confirmação que precisava na época, "_eu quero estudar computação!_".
