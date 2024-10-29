@@ -20,8 +20,8 @@
 
 ## ⚡ Interesses Pessoais
 
-- Apaixonado por **video games**, especialmente **God Of War** 🎮. Jogando atualmente **Kingdom Come Deliverance e Star Wars Fallen Order**!
-- Atualmente lendo *Guerra Civil de Stuart Moore* e *Metamorfose de Franz Kafka*
+- Apaixonado por **video games**, especialmente **God Of War** 🎮. Jogando atualmente **Kingdom Come Deliverance e Star Wars Jedi Fallen Order**!
+- Atualmente lendo *Guerra Civil de Stuart Moore* e *1984 de George Orwell*
 - Gosto de quadrinhos, especialmente do *Homem aranha*🕷️ e do *Batman🦇*!
 
 ## 😁 Sobre mim
