@@ -13,8 +13,11 @@
 
 ## 🎓 Certificações e Cursos
 
+- **Fundamentos da Programação** - Sololearn
+- ﻿**Data Fundamentals** - IBM SkillsBuild 
 - **Introdução à Programação Orientada a Objetos** - Fundação Bradesco
 - **Desenvolvimento Orientado a Objetos Utilizando Python** - Fundação Bradesco
+- **Crie um site simples usando HTML, CSS e JavaScript** - Fundação Bradesco
 - **Criação de Projetos com Interface Gráfica em Python** - Fundação Bradesco
 - **Desenvolvendo um Projeto Completo em Python com Estrutura de Dados** - Fundação Bradesco
 
