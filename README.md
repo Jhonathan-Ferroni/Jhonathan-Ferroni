@@ -3,8 +3,9 @@
 
 <h3>Sou graduando em análise e desenvolvimento de sistemas pelo IFSP! Atualmente trabalho como auxiliar de escritório e estou em busca de aprimorar meu aprendizado para que possa migrar para a área da tecnologia.</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni)](https://github.com/Jhoanthan-Ferroni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni)](https://github.com/Jhonathan-Ferroni/github-readme-stats)
 ![Jhow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonathan-Ferroni&show_icons=true&theme=blue)
+
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
