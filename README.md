@@ -3,7 +3,7 @@
 
 <h3>Sou graduando em análise e desenvolvimento de sistemas pelo IFSP! Atualmente trabalho como auxiliar de escritório e estou em busca de aprimorar meu aprendizado para que possa migrar para a área da tecnologia.</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni)](https://github.com/Jhonathan-Ferroni/github-readme-stats)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni&theme=blue)
 ![Jhow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonathan-Ferroni&show_icons=true&theme=blue)
 
 
