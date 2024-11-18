@@ -24,8 +24,8 @@
 
 ## ⚡ Interesses Pessoais
 
-- Apaixonado por **video games**, especialmente **God Of War** 🎮. Jogando atualmente **Kingdom Come Deliverance e Star Wars Jedi Fallen Order**!
-- Atualmente lendo *Guerra Civil de Stuart Moore* e *1984 de George Orwell*
+- Apaixonado por **video games**, especialmente **God Of War e Uncharted** 🎮. Jogando atualmente **Kingdom Come Deliverance e Metro 2033 Redux**!
+- Atualmente lendo *Guerra Civil de Stuart Moore* e *Massacre da família Hope de Riley Sager*
 - Gosto de quadrinhos, especialmente do *Homem aranha*🕷️ e do *Batman🦇*!
 
 ## 😁 Sobre mim
