@@ -25,7 +25,7 @@
 ## ⚡ Interesses Pessoais
 
 - Apaixonado por **video games**, especialmente **God Of War e Uncharted** 🎮. Jogando atualmente **Kingdom Come Deliverance e Metro 2033 Redux**!
-- Meus livros favoritos são **O Planeta dos Macacos**,**1984** e **Mitologia nórdica**
+- Meus livros favoritos são **O Planeta dos Macacos**,**1984** e **A Metamorfose**
 - Gosto de muito de quadrinhos, especialmente do *Homem aranha*🕷️ e do *Batman🦇*!
 
 ## 😁 Sobre mim
