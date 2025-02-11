@@ -5,9 +5,11 @@
 </a>
 
 
-<h3>Sou graduando em análise e desenvolvimento de sistemas pelo IFSP! Atualmente trabalho como auxiliar de escritório e estou em busca de aprimorar meu aprendizado para que possa migrar para a área da tecnologia.</h3>
+<h3>Sou graduando em análise e desenvolvimento de sistemas pelo IFSP! Atualmente trabalho como auxiliar de escritório e estou em busca de aprimorar meu aprendizado para que possa migrar para a área da tecnologia. Atualmente estou desenvolvendo minhas habilidades com Python, utilizando as bibliotecas Panda, Numpy, MatplotLib, entre outras. Meu foco tem sido a área de dados e Machine Learning. </h3>
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni&theme=aura&cache_seconds=60)
+![Spidey GIF](https://github.com/Jhonathan-Ferroni/Jhonathan-Ferroni/blob/main/spidey_2.gif)
+
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
