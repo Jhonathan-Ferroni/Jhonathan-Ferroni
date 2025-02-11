@@ -1,6 +1,6 @@
 <h1>
     <a>
-     <img align="center" alt="Logo jhonathan ferroni" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+     <img align="center" alt="Logo jhonathan ferroni" width="36px" src="https://github.com/Jhonathan-Ferroni/Jhonathan-Ferroni/blob/main/spiderman_1610747.png"></a>
     <span>Jhonathan Ferroni</span>
 </h1>
 
@@ -12,18 +12,17 @@
 
 <p align="justify">Sou graduando em análise e desenvolvimento de sistemas pelo IFSP! Atualmente trabalho como auxiliar de escritório e estou em busca de aprimorar meu aprendizado para que possa migrar para a área da tecnologia. Atualmente estou desenvolvendo minhas habilidades com Python, utilizando as bibliotecas Panda, Numpy, MatplotLib, entre outras. Meu foco tem sido a área de dados e Machine Learning. </p>
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:CCC)](https://www.linkedin.com/in/jhonathan-ferroni-67441b271)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni&theme=dracula&cache_seconds=60&langs_count=5&custom_title=Top%20Linguagens&border_color=FF0000&bg_color=003366" align="right">
+
+### Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=003366)](https://www.linkedin.com/in/jhonathan-ferroni-67441b271)
+
+### Especialidades
+<img src="https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/Python-003366?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Sqlite-003366?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/Google%20Colab-FF0000?style=for-the-badge&logo=googlecolab&logoColor=white">
 
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni&theme=dracula&cache_seconds=60)
 
 
-
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
 
 ## 🎓 Certificações e Cursos
 
