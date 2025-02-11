@@ -1,5 +1,9 @@
 <h2>Olá, meu nome é Jhonathan!👋 </h2>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> www.linkedin.com/in/jhonathan-ferroni-67441b271
+<a href="https://www.linkedin.com/in/jhonathan-ferroni-67441b271" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn" class="media-object img-responsive img-thumbnail">
+</a>
+
 
 <h3>Sou graduando em análise e desenvolvimento de sistemas pelo IFSP! Atualmente trabalho como auxiliar de escritório e estou em busca de aprimorar meu aprendizado para que possa migrar para a área da tecnologia.</h3>
 
