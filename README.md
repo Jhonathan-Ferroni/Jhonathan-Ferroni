@@ -10,7 +10,7 @@
 <img src="https://github.com/Jhonathan-Ferroni/Jhonathan-Ferroni/blob/main/spidey_2.gif" align="right">
 
 
-<p align="justify">Sou graduando em análise e desenvolvimento de sistemas pelo IFSP! Atualmente trabalho como auxiliar de escritório e estou em busca de aprimorar meu aprendizado para que possa migrar para a área da tecnologia. Atualmente estou desenvolvendo minhas habilidades com Python, utilizando as bibliotecas Panda, Numpy, MatplotLib, entre outras. Meu foco tem sido a área de dados e Machine Learning. </p>
+<p align="justify">Sou graduando em análise e desenvolvimento de sistemas pelo IFSP! Tenho experiência de um ano como auxiliar de escritório e estou em busca de aprimorar meu aprendizado para que possa migrar para a área da tecnologia. Atualmente estou desenvolvendo minhas habilidades com Python, utilizando as bibliotecas Panda, Numpy, MatplotLib, entre outras. Meu foco tem sido a área de dados e Machine Learning. </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni&theme=dracula&cache_seconds=60&langs_count=5&custom_title=Top%20Linguagens&border_color=FF0000&bg_color=003366" align="right">
 
