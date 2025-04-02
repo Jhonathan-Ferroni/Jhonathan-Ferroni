@@ -57,7 +57,7 @@
 
 ## ⚡ Interesses Pessoais
 
-- Apaixonado por **video games**, especialmente **God Of War e Uncharted** 🎮. Jogando atualmente **Kingdom Come Deliverance e Marvel Rivals**!
+- Apaixonado por **video games**, especialmente **God Of War e Uncharted** 🎮. Jogando atualmente **Monster Hunter World e Marvel Rivals**!
 - Meus livros favoritos são **O Planeta dos Macacos**,**1984** e **A Metamorfose**. Atualmente estou lendo **O Código de Da Vinci!**
 - Gosto de muito de quadrinhos e heróis, especialmente do *Homem aranha*🕷️!
 
