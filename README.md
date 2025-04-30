@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=003366)](https://www.linkedin.com/in/jhonathan-ferroni-67441b271)
 
 ### Especialidades
-<img src="https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/Python-003366?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Sqlite-003366?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/Google%20Colab-FF0000?style=for-the-badge&logo=googlecolab&logoColor=white">
+<img src="https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/Python-003366?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Google%20Colab-FF0000?style=for-the-badge&logo=googlecolab&logoColor=white"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
 
 
