@@ -19,9 +19,21 @@ Sou graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, com experiên
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=003366)](https://www.linkedin.com/in/jhonathan-ferroni-67441b271)
 
 ### Especialidades
-<img src="https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/Python-0000FF?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=Java&logoColor=white">
+<div align="left">
+  <img width="60" height="60" src="https://img.icons8.com/fluency/96/python.png" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
 
-<img src="https://img.shields.io/badge/Google%20Colab-F4A460?style=for-the-badge&logo=googlecolab&logoColor=white"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+
+   <p>
+  <img width="60" height="60" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
+  <img width="60" height="60" src="https://img.icons8.com/fluency/96/sql.png" alt="sql"/>
+    <p>
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="40" alt="azure logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+
+</div>
+
+###
 
 
 
