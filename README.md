@@ -2,18 +2,12 @@
     <span>Jhonathan Ferroni - 20 Anos</span>
 </h1>
 
-
-
-
-<img src="https://github.com/Jhonathan-Ferroni/Jhonathan-Ferroni/blob/main/spidey_2.gif" align="right">
-
-
 <p align="justify">
 Sou graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, com experiência profissional como auxiliar de escritório. Estou em transição para a área de tecnologia, desenvolvendo ativamente minhas habilidades em Programação Orientada a Objetos, Estatística, SQL e Python. Tenho trabalhado com bibliotecas como Pandas, NumPy e Matplotlib, além do uso do Power BI para visualização de dados. Meu foco tem sido a análise de dados e o estudo de Machine Learning, sempre em busca de aplicar soluções inteligentes baseadas em dados.
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni&theme=dracula&cache_seconds=60&langs_count=5&custom_title=Top%20Linguagens&border_color=FF0000&bg_color=003366" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni&theme=gruvbox&cache_seconds=60&langs_count=5&show_icons=true" align="right">
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=003366)](https://www.linkedin.com/in/jhonathan-ferroni-67441b271)
@@ -34,9 +28,6 @@ Sou graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, com experiên
 </div>
 
 ###
-
-
-
 
 
 ## 🎓 Principais Certificações e Cursos
@@ -68,17 +59,6 @@ Sou graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, com experiên
 
 - **Versionamento de código com Git e GitHub** - DIO.me
 
-
-
-## ⚡ Interesses Pessoais
-
-- Apaixonado por **video games**, especialmente **God Of War e Uncharted** 🎮. Jogando atualmente **Monster Hunter World e Marvel Rivals**!
-- Meus livros favoritos são **O Planeta dos Macacos**,**1984** e **A Metamorfose**. Atualmente estou lendo **O Código de Da Vinci!**
-- Gosto de muito de quadrinhos e heróis, especialmente do *Homem aranha*🕷️!
-
-## 😁 Sobre mim
-- Desde criança sempre vivi rodeado por tecnologia, seja com videogames (*um memorável Playstation 2*) , os primeiros celulares do meu pai ou o nosso primeiro PC e sempre foi algo que me fascinou. Com o passar dos anos o interesse só aumentou, sempre tive na mente que trabalharia com computadores. Ao chegar no ensino médio, passando pela pandemia, encontrei um curso na internet chamado de CS50, um ótimo e completo curso de introdução a ciências da computação de Harvard. Logo comecei a pegar gosto pela coisa, adorava o conteúdo da aula e percebia que levava jeito para aquilo, me enchia os olhos. No entanto, conciliar o mergulho na programação que o CS50 te obriga a fazer caso queira atingir a nota necessária para dar prosseguimento nas aulas e o estudo para os vestibulares não foi tarefa fácil, por isso na epóca, acabei abandonando o estudo na metade. Entretanto, esse foi um ótimo teste para mim, e foi a confirmação que precisava na época, "_eu quero estudar computação!_".
--  Tendo passado o ano do vestibular, consegui uma vaga no IFSP de Guarulhos, decidi me matricular, porém, a distância para chegar ao câmpus me desmotivou rapidamente, pois considerava que tinha capacidade para conquistar uma vaga em outra faculdade mais próxima, então, decidi estudar e prestar novamente, e para minha grata surpresa, logo consegui uma vaga no IFSP de São paulo, onde hoje curso o 3º semestre de análise e desenvolvimento de sistemas. Tendo passado por alguns meses de estudo, hoje meu principal objetivo é aprimorar minhas capacidades principalmente na área de dados e programação back-end. Esse foi um pequeno resumo da minha história com a tecnologia!.
 
 
 ## 🔗 Contato:
