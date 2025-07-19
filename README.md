@@ -29,36 +29,13 @@ Sou graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, com experiên
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonathan-Ferroni/Jhonathan-Ferroni/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonathan-Ferroni/Jhonathan-Ferroni/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jhonathan-Ferroni/Jhonathan-Ferroni/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🎓 Principais Certificações e Cursos
-
-<img width="24px" align="left" src="https://img.icons8.com/?size=100&id=yFsEgs0TIWtG&format=png&color=FFFFFF">
-
-
-- ﻿**Data Fundamentals** - IBM SkillsBuild
-<img width="24px" align="left" src="https://img.icons8.com/?size=100&id=13441&format=png">
-
-- **Introdução à Programação Orientada a Objetos** - Fundação Bradesco
-<img width="24px" align="left" src="https://img.icons8.com/?size=100&id=13441&format=png">
-
-- **Desenvolvimento Orientado a Objetos Utilizando Python** - Fundação Bradesco
-<img width="24px" align="left" src="https://img.icons8.com/?size=100&id=13441&format=png">
-
-- **Criação de Projetos com Interface Gráfica em Python** - Fundação Bradesco
-<img width="24px" align="left" src="https://img.icons8.com/?size=100&id=13441&format=png">
-
-- **Desenvolvendo um Projeto Completo em Python com Estrutura de Dados** - Fundação Bradesco
-<img width="24px" align="left" src="https://img.icons8.com/?size=100&id=13441&format=png">
-<img width="24px" align="left" src="https://img.icons8.com/?size=100&id=z0IslVo01tWk&format=png&color=FFFFFF">
-
-- **Python para Machine Learning na Prática** - DIO.me
-<img width="24px" align="left" src="https://img.icons8.com/?size=100&id=20906&format=png">
-
-- **Git e GitHub: Formação Básica** - Linkedin Learning
-<img width="24px" align="left" src="https://img.icons8.com/?size=100&id=20906&format=png">
-
-- **Versionamento de código com Git e GitHub** - DIO.me
-
+###
 
 
 ## 🔗 Contato:
