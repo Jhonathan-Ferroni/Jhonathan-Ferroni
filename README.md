@@ -3,7 +3,7 @@
 </h1>
 
 <p align="justify">
-Sou graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, com experiência profissional como auxiliar de escritório. Estou em transição para a área de tecnologia, desenvolvendo ativamente minhas habilidades em Programação Orientada a Objetos, Estatística, SQL e Python. Tenho trabalhado com bibliotecas como Pandas, NumPy e Matplotlib, além do uso do Power BI para visualização de dados. Meu foco tem sido a análise de dados e o estudo de Machine Learning, sempre em busca de aplicar soluções inteligentes baseadas em dados.
+Sou graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, com experiência profissional como auxiliar de escritório. Estou em transição para a área de tecnologia, desenvolvendo ativamente minhas habilidades em Programação Orientada a Objetos, Estatística, SQL, Python e C#. Tenho trabalhado com bibliotecas como Pandas, NumPy e Matplotlib, além do uso do Power BI para visualização de dados. Meu foco tem sido a análise de dados e o estudo de Machine Learning, sempre em busca de aplicar soluções inteligentes baseadas em dados.
 </p>
 
 
@@ -16,9 +16,7 @@ Sou graduando em Análise e Desenvolvimento de Sistemas pelo IFSP, com experiên
 <div align="left">
   <img width="60" height="60" src="https://img.icons8.com/fluency/96/python.png" alt="python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-
-
-   <p>
+  <img width="70" height="70" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
   <img width="60" height="60" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
   <img width="60" height="60" src="https://img.icons8.com/fluency/96/sql.png" alt="sql"/>
     <p>
