@@ -3,7 +3,7 @@
 </h1>
 
 <p align="justify">
-Sou graduando em Análise e Desenvolvimento de Sistemas pela FATEC ZONA LESTE, com experiência profissional como auxiliar de escritório. Estou em transição para a área de tecnologia, desenvolvendo ativamente minhas habilidades em Programação Orientada a Objetos, Estatística, SQL, Python e C#. Tenho trabalhado com bibliotecas como Pandas, NumPy e Matplotlib, além do uso do Power BI para visualização de dados. Meu foco tem sido a análise de dados e o estudo de Machine Learning, sempre em busca de aplicar soluções inteligentes baseadas em dados.
+Sou desenvolvedor de software e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FATEC ZONA LESTE, com experiência profissional como auxiliar de escritório. Estou em transição para a área de tecnologia, desenvolvendo ativamente minhas habilidades em Programação Orientada a Objetos, Estatística, SQL, Python e C#. Tenho trabalhado com bibliotecas como Pandas, NumPy, Matplotlib e framework .NET além do uso do Power BI para visualização de dados.
 </p>
 
 
