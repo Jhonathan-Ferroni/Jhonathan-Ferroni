@@ -12,6 +12,7 @@ Sou <b>Desenvolvedor de Software</b> focado no ecossistema <b>.NET</b> e especia
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
 
 **Banco de Dados (Queries, SPs & Functions):**
@@ -30,20 +31,24 @@ Sou <b>Desenvolvedor de Software</b> focado no ecossistema <b>.NET</b> e especia
 
 ---
 
-### 💻 Backend
+### 💻 Perfil Técnico
 
 - 🚀 **Desenvolvimento .NET:** Construção de aplicações escaláveis com C#.
-- 🗄️ **Database Specialist:** Experiência em **MySQL** e **SQL Server**, desenvolvendo queries otimizadas, **Stored Procedures** e **Functions** para lógica de negócio em camadas de dados.
+- 🗄️ **Database Specialist:** Experiência em **MySQL** e **SQL Server**, desenvolvendo queries otimizadas, **Stored Procedures** e **Functions**.
 - 📐 **Arquitetura:** Aplicação de princípios de POO e Clean Code.
+- ⚙️ **Low Level:** Conhecimentos fundamentais em linguagem **C**.
 
 ---
 
-### 📈 Estatísticas
-
-
+### 📈 Estatísticas de Programador
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jhonathan-Ferroni/Jhonathan-Ferroni/output/snake.svg" alt="Snake animation" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonathan-Ferroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonathan-Ferroni&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
