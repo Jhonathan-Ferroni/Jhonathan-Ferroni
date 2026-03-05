@@ -67,10 +67,10 @@ oportunidade como Desenvolvedor C# / .NET Júnior.
 
 # 💻 Perfil Técnico
 
-- 🚀 **Backend Desenvolvimento com C# e ASP.NET Core (MVC e Minimal API). 
-- 🗄️ **APIs Criação de APIs REST com implementação completa de operações CRUD.
-- 📐 **Dados Modelagem de banco de dados e escrita de queries SQL (Functions, Stored Procedures).
-- ⚙️ **Ferramentas SQL Server, MySQL, Visual Studio Code e Community
+- 🚀 **Backend Desenvolvimento com C# e ASP.NET Core (MVC e Minimal API).**
+- 🗄️ **APIs Criação de APIs REST com implementação completa de operações CRUD.**
+- 📐 **Dados Modelagem de banco de dados e escrita de queries SQL (Functions, Stored Procedures).**
+- ⚙️ **Ferramentas SQL Server, MySQL, Visual Studio Code e Community.**
 
 ---
 
