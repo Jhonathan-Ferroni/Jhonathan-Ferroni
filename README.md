@@ -1,59 +1,100 @@
-# <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Olá, eu sou o Jhonathan Ferroni</h1>
+<h1>
+  🕷️
+  Olá, meu nome é Jhonathan Ferroni!
+</h1>
+
+<img align="right" height="190em" src="spiderman_1610747.png"/>
 
 <p align="justify">
-Sou <b>Desenvolvedor de Software</b> focado no ecossistema <b>.NET</b> e especialista em manipulação de dados. Atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC Zona Leste, minha atuação é voltada para a construção de backends robustos, utilizando C# e integração avançada com bancos de dados relacionais.
+Sou <b>Desenvolvedor de Software</b> focado no ecossistema <b>.NET</b> e estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend
+utilizando C#, .NET e Banco de dados. Possuo experiência prática na criação de sistemas
+com operações CRUD, integração com bancos de dados relacionais e construção de APIs
+utilizando ASP.NET Core.
+Tenho conhecimento em modelagem de dados, escrita de queries SQL, versionamento com
+Git e organização de código seguindo princípios de Programação Orientada a Objetos. Busco
+oportunidade como Desenvolvedor C# / .NET Júnior.
+
 </p>
 
----
+<br>
 
-### 🛠️ Tecnologias & Ferramentas
-
-**Linguagens e Frameworks:**
-<div align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</div>
-
-**Banco de Dados (Queries, SPs & Functions):**
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Stored%20Procedures-FFD700?style=for-the-badge&logo=databricks&logoColor=black" alt="Stored Procedures" />
-</div>
-
-**Cloud & Ferramentas:**
-<div align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-</div>
 
 ---
 
-### 💻 Perfil Técnico
+# 🛠️ Tecnologias & Ferramentas
 
-- 🚀 **Desenvolvimento .NET:** Construção de aplicações escaláveis com C#.
-- 🗄️ **Database Specialist:** Experiência em **MySQL** e **SQL Server**, desenvolvendo queries otimizadas, **Stored Procedures** e **Functions**.
-- 📐 **Arquitetura:** Aplicação de princípios de POO e Clean Code.
-- ⚙️ **Low Level:** Conhecimentos fundamentais em linguagem **C**.
+### Linguagens e Frameworks
+
+<div>
+
+<img src="https://img.shields.io/badge/C%23-E11D48?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/.NET-DC2626?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-1D4ED8?style=for-the-badge&logo=c&logoColor=white"/>
+
+</div>
+
+<img align="right" height="200em" src="spidey_2.gif"/>
+
+### Banco de Dados (Queries, SPs & Functions)
+
+<div>
+
+<img src="https://img.shields.io/badge/MySQL-DC2626?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL%20Server-B91C1C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Stored%20Procedures-1D4ED8?style=for-the-badge"/>
+
+</div>
+
+### Cloud & Ferramentas
+
+<div>
+
+<img src="https://img.shields.io/badge/Azure-DC2626?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-1D4ED8?style=for-the-badge&logo=power-bi&logoColor=white"/>
+
+</div>
 
 ---
 
-### 📈 Estatísticas de Programador
+<img align="right" height="170em" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif"/>
+
+# 💻 Perfil Técnico
+
+- 🚀 **Backend Desenvolvimento com C# e ASP.NET Core (MVC e Minimal API). 
+- 🗄️ **APIs Criação de APIs REST com implementação completa de operações CRUD.
+- 📐 **Dados Modelagem de banco de dados e escrita de queries SQL (Functions, Stored Procedures).
+- ⚙️ **Ferramentas SQL Server, MySQL, Visual Studio Code e Community
+
+---
+
+# 📈 Estatísticas de Programador
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonathan-Ferroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonathan-Ferroni&layout=compact&langs_count=7&theme=dracula" />
-</div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonathan-Ferroni&theme=dracula" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/Jhonathan-Ferroni/Jhonathan-Ferroni/output/snake.svg" />
+
+<br><br>
+
+
+<img width="36%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jhonathan-Ferroni&layout=compact&bg_color=0d1117&title_color=ff3b3b&text_color=e6edf3&border_color=1f6feb"/>
+
+
+
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonathan-Ferroni&background=0b0f14&ring=ff4d4d&fire=ff4d4d&currStreakLabel=3b82f6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9ca3af&border=2563eb"/>
+
 </div>
 
 ---
 
-### 📫 Contato
+# 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-ferroni-67441b271)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferroni.jhonathan2403@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-ferroni-67441b271)
+
+[![Email](https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferroni.jhonathan2403@gmail.com)
