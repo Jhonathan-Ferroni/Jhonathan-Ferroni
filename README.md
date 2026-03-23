@@ -57,8 +57,6 @@ oportunidade como Desenvolvedor C# / .NET Júnior.
 
 <img src="https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-1D4ED8?style=for-the-badge&logo=power-bi&logoColor=white"/>
-
 </div>
 
 ---
