@@ -36,10 +36,11 @@ Além do foco no backend, possuo conhecimentos em <b>React</b> e JavaScript, o q
   <img src="https://img.shields.io/badge/Stored%20Procedures-1D4ED8?style=for-the-badge"/>
 </div>
 
-### Cloud & Ferramentas
+### Ferramentas de Deploy
 
 <div>
-  <img src="https://img.shields.io/badge/Azure-DC2626?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-DC2626?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
@@ -60,7 +61,7 @@ Além do foco no backend, possuo conhecimentos em <b>React</b> e JavaScript, o q
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jhonathan-Ferroni/Jhonathan-Ferroni/output/snake.svg" />
+<img src="https://ghchart.rshah.org/DC2626/Jhonathan-Ferroni" alt="Gráfico de Contribuições GitHub" />
 
 <br><br>
 
